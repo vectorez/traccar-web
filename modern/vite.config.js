@@ -23,7 +23,7 @@ export default defineConfig(() => ({
         navigateFallbackDenylist: [/^\/api/],
       },
       manifest: {
-        short_name: '${title}',
+        short_name: 'Neuro',
         name: '${description}',
         theme_color: '${colorPrimary}',
         icons: [
